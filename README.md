@@ -113,6 +113,7 @@ Choosing the method depends on the characteristics of the data and the objective
 
 Boxplot Interpretation
 
+
 - **Q1 (First Quartile)**: **129,975**
   - This value represents the 25th percentile of the dataset, meaning that 25% of the houses in your dataset sold for less than or equal to **$129,975**. This indicates that a significant portion of the housing prices is clustered below this threshold.
 - **Median**: **163,000**
@@ -149,6 +150,7 @@ Categorical features helps us understand the distribution of different categorie
 - **Fa (Fair):** Only 39 houses have "Fair" kitchen quality, meaning that these kitchens are likely in need of updates or improvements. This small number indicates that few homes have subpar kitchen conditions.
 
 ### Correlation Analysis
+![alt text](https://github.com/Vincent9339/House-Prices-Advanced-Regression-Techniques---Kaggle/blob/main/img/cor_mat_heatmap.png?raw=true)
 
 Let's start with some examples from the graph.
 
@@ -166,7 +168,7 @@ This suggests that as the area of the first floor increases, the total area of t
 This relationship may imply that larger homes (with more living space on the first floor) are likely to have larger basements. Builders often design homes such that the first-floor area and basement area scale with the overall size of the property.
 
 #### But what do I catch out of the box from Correlation
-
+![alt text](https://github.com/Vincent9339/House-Prices-Advanced-Regression-Techniques---Kaggle/blob/main/img/cor_vs_target.png?raw=true)
 #### Positive Correlation
 
 - High Correlation with GrLivArea:
