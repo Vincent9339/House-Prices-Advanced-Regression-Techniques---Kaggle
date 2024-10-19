@@ -1,4 +1,4 @@
-# House Prices Advanced Regression Techniques [Kaggle] UNDER PROGRESS
+# House Prices Advanced Regression Techniques [Kaggle] |star| UNDER PROGRESS |star|
 
 ## Overview
 This project aims to predict house prices from a Kaggle competition, based on various features of the houses. The dataset contains information about various attributes of houses sold, which will be analyzed and used to create a predictive model for house prices.
