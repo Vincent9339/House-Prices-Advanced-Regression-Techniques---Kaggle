@@ -29,8 +29,8 @@ The primary objective is to create a model that accurately predicts the sale pri
     - Categorical Features vs. SalePrice
   - Correlation Analysis
   - Data Cleaning
-    - [Missing values](# Data Cleaning[Missing-values])
-    - [Outliers](# Data-Cleaning[Outliers])
+    - [Missing values](#Missing-values)
+    - [Outliers](#Outliers)
 - **Feature Engineering**: Creating new features or modifying existing ones to improve model performance.
   - Potential Derived Features
   - Log Transformation
