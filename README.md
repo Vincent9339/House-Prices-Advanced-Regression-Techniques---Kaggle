@@ -18,20 +18,19 @@ The dataset used in this project is sourced from the [Kaggle House Prices: Advan
 The primary objective is to create a model that accurately predicts the sale price of houses based on the various features available in the dataset. This project involves exploratory data analysis, feature engineering, model selection, and evaluation.
 
 ## Steps Involved
-- [Exploratory Data Analysis](#Exploratory-Data-Analysis): Analyzing the dataset for patterns, trends, and relationships.
+- [Exploratory Data Analysis](#Exploratory-Data-Analysis): 
   - Understanding the Data Structure
   - [Target Variable Analysis (`SalePrice`)](#Target-Variable-Analysis)
   - [Univariate Analysis](#Univariate-Analysis)
   - [Bivariate Analysis](#Bivariate-Analysis)
   - [Correlation Analysis](#Correlation-Analysis)
   - [Data Cleaning](#Data-Cleaning)
-- [Feature Engineering](#Feature-Engineering): Creating new features or modifying existing ones to improve model performance.
+- [Feature Engineering](#Feature-Engineering): 
 - [Multicollinearity Check](#Multicollinearity-Check)
 - [Time-Related Analysis](#Time-Related-Analysis)
 - [Geographical Analysis](#Geographical-Analysis)
-- [Model Training](#Model-Training): Using various regression models to predict house prices.
-- [Model Evaluation](#Model-Evaluation): Assessing model performance using metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared (R²).
-
+- [Model Training](#Model-Training):
+- [Model Evaluation](#Model-Evaluation): 
 ## Explanation
 
 ### Target Variable Analysis
