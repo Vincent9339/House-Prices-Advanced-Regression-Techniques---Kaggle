@@ -18,7 +18,7 @@ The dataset used in this project is sourced from the [Kaggle House Prices: Advan
 The primary objective is to create a model that accurately predicts the sale price of houses based on the various features available in the dataset. This project involves exploratory data analysis, feature engineering, model selection, and evaluation.
 
 ## Steps Involved
-- [Exploratory Data Analysis](#Exploratory Data Analysis): Analyzing the dataset for patterns, trends, and relationships.
+- [Exploratory Data Analysis](# Exploratory Data Analysis): Analyzing the dataset for patterns, trends, and relationships.
   - Understanding the Data Structure
   - Target Variable Analysis (`SalePrice`)
   - Univariate Analysis
