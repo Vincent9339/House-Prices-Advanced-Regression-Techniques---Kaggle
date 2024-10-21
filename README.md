@@ -34,6 +34,7 @@ The primary objective is to create a model that accurately predicts the sale pri
 ## Explanation
 
 ### Target Variable Analysis
+![alt text](https://github.com/Vincent9339/House-Prices-Advanced-Regression-Techniques---Kaggle/blob/main/img/skewness.png?raw=true)
 
 The graph shows that the tail on the right side of the distribution is longer than the left side. It means most house prices are concentrated on the lower end of the scale, with a few higher-priced homes pulling the average up. 
 
@@ -94,8 +95,15 @@ The IQR method, with its focus on the interquartile range, is more sensitive to 
 The Z-score method found 16 outliers because it identifies only the most extreme deviations from the mean, assuming the data is normally distributed.
 The IQR method found 31 outliers because it considers any data point significantly outside the middle 50% range as an outlier, making it more suitable for the skewed nature of real estate data.
 Choosing the method depends on the characteristics of the data and the objectives of your analysis. For real estate data, where distributions are often skewed, the IQR method might provide a more accurate picture of outliers.
+![alt text](https://github.com/Vincent9339/House-Prices-Advanced-Regression-Techniques---Kaggle/blob/main/img/Outliers.png?raw=true)
 
 
+#### Solution metric[Mean Absolute Error]
+A low MAE indicates that, on average, the model's predictions are close to the actual values. Here’s what a low MAE typically suggests:
+Good Predictive Accuracy:
+A low MAE value means that the model's predictions are accurate and close to the actual observed values.
+It reflects a model that is effective in capturing the relationship between the input features and the target variable.
+![alt text](https://github.com/Vincent9339/House-Prices-Advanced-Regression-Techniques---Kaggle/blob/main/img/Outliers1.png?raw=true)
 
 ### Univariate Analysis
 
