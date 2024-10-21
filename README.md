@@ -41,6 +41,7 @@ The graph shows that the tail on the right side of the distribution is longer th
 A positive skewness of **1.833** indicates that the majority of data points are clustered at the lower end of the scale, with a few extreme values extending the tail to the right, suggesting potential outliers or a need for data transformation.
 
 ### Missing values
+![alt text](https://github.com/Vincent9339/House-Prices-Advanced-Regression-Techniques---Kaggle/blob/main/img/missing_values.png?raw=true)
 
 I tackled missing values by: 
 
